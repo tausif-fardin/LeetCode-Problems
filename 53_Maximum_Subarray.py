@@ -1,4 +1,7 @@
+from typing import List
 # Approach-1
+
+
 def maxSubArray(self, nums: List[int]) -> int:
     maxSub = nums[0]
     curSum = 0

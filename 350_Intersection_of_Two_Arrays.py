@@ -1,4 +1,6 @@
+from typing import List
 # Solution-1
+
 
 def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
     # Will be stored in the hash table for shorter elements

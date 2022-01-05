@@ -1,3 +1,6 @@
+from typing import List
+
+
 def matrixReshape(self, mat: List[List[int]], r: int, c: int) -> List[List[int]]:
     rows = len(mat)
     columns = len(mat[0])

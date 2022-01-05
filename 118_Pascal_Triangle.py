@@ -1,3 +1,6 @@
+from typing import List
+
+
 def generate(self, numRows: int) -> List[List[int]]:
     result = [[1]]
     for i in range(numRows-1):
