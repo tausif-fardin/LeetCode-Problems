@@ -10,3 +10,4 @@
 - 118 - https://leetcode.com/problems/pascals-triangle/ <br/>
 - 74 - https://leetcode.com/problems/search-a-2d-matrix/ <br/>
 - 36 - https://leetcode.com/problems/valid-sudoku/ <br/>
+- 387 - https://leetcode.com/problems/first-unique-character-in-a-string/submissions/ </br>
