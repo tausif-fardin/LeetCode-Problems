@@ -13,4 +13,6 @@
 - 387 - https://leetcode.com/problems/first-unique-character-in-a-string/submissions/ </br>
 - 383 - https://leetcode.com/problems/ransom-note/ </br>
 - 242 - https://leetcode.com/problems/valid-anagram/ </br>
-
+- 141 - https://leetcode.com/problems/linked-list-cycle/ </br>
+- 21 - https://leetcode.com/problems/merge-two-sorted-lists/ </br>
+- 203 - https://leetcode.com/problems/remove-linked-list-elements/ </br>
