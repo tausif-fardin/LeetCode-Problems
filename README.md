@@ -16,3 +16,5 @@
 - 141 - https://leetcode.com/problems/linked-list-cycle/ </br>
 - 21 - https://leetcode.com/problems/merge-two-sorted-lists/ </br>
 - 203 - https://leetcode.com/problems/remove-linked-list-elements/ </br>
+- 206 - https://leetcode.com/problems/reverse-linked-list/ </br>
+- 83 - https://leetcode.com/problems/remove-duplicates-from-sorted-list/ </br>
