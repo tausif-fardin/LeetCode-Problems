@@ -18,3 +18,4 @@
 - 203 - https://leetcode.com/problems/remove-linked-list-elements/ </br>
 - 206 - https://leetcode.com/problems/reverse-linked-list/ </br>
 - 83 - https://leetcode.com/problems/remove-duplicates-from-sorted-list/ </br>
+- 20 - https://leetcode.com/problems/valid-parentheses/ </br>
