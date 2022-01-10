@@ -1,5 +1,7 @@
 # LeetCode-Problems
-## Data Structure I 
+
+## Data Structure I
+
 - 217 - https://leetcode.com/problems/contains-duplicate/ <br/>
 - 53 - https://leetcode.com/problems/maximum-subarray/ <br/>
 - 1 - https://leetcode.com/problems/two-sum/ <br/>
@@ -20,3 +22,6 @@
 - 83 - https://leetcode.com/problems/remove-duplicates-from-sorted-list/ </br>
 - 20 - https://leetcode.com/problems/valid-parentheses/ </br>
 - 232 - https://leetcode.com/problems/implement-queue-using-stacks/ </br>
+- 144 - https://leetcode.com/problems/binary-tree-preorder-traversal/ </br>
+- 94 - https://leetcode.com/problems/binary-tree-inorder-traversal/ </br>
+- 145 - https://leetcode.com/problems/binary-tree-postorder-traversal/ </br>
