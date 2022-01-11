@@ -26,3 +26,4 @@
 - 94 - https://leetcode.com/problems/binary-tree-inorder-traversal/ </br>
 - 145 - https://leetcode.com/problems/binary-tree-postorder-traversal/ </br>
 - 101 - https://leetcode.com/problems/symmetric-tree/submissions/ </br>
+- 104 - https://leetcode.com/problems/maximum-depth-of-binary-tree/ </br>
