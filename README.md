@@ -2,29 +2,27 @@
 
 ## Data Structure I
 
-- 217 - https://leetcode.com/problems/contains-duplicate/ <br/>
-- 53 - https://leetcode.com/problems/maximum-subarray/ <br/>
-- 1 - https://leetcode.com/problems/two-sum/ <br/>
-- 88 - https://leetcode.com/problems/merge-sorted-array/ <br/>
-- 350 - https://leetcode.com/problems/intersection-of-two-arrays-ii/ <br/>
-- 121 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br/>
-- 566 - https://leetcode.com/problems/reshape-the-matrix/ <br/>
-- 118 - https://leetcode.com/problems/pascals-triangle/ <br/>
-- 74 - https://leetcode.com/problems/search-a-2d-matrix/ <br/>
-- 36 - https://leetcode.com/problems/valid-sudoku/ <br/>
-- 387 - https://leetcode.com/problems/first-unique-character-in-a-string/submissions/ </br>
-- 383 - https://leetcode.com/problems/ransom-note/ </br>
-- 242 - https://leetcode.com/problems/valid-anagram/ </br>
-- 141 - https://leetcode.com/problems/linked-list-cycle/ </br>
-- 21 - https://leetcode.com/problems/merge-two-sorted-lists/ </br>
-- 203 - https://leetcode.com/problems/remove-linked-list-elements/ </br>
-- 206 - https://leetcode.com/problems/reverse-linked-list/ </br>
-- 83 - https://leetcode.com/problems/remove-duplicates-from-sorted-list/ </br>
-- 20 - https://leetcode.com/problems/valid-parentheses/ </br>
-- 232 - https://leetcode.com/problems/implement-queue-using-stacks/ </br>
-- 144 - https://leetcode.com/problems/binary-tree-preorder-traversal/ </br>
-- 94 - https://leetcode.com/problems/binary-tree-inorder-traversal/ </br>
-- 145 - https://leetcode.com/problems/binary-tree-postorder-traversal/ </br>
-- 101 - https://leetcode.com/problems/symmetric-tree/submissions/ </br>
-- 104 - https://leetcode.com/problems/maximum-depth-of-binary-tree/ </br>
-- 102 - https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/ </br>
+- [x] 217 | https://leetcode.com/problems/contains-duplicate/ <br/>
+- [x] 53 | https://leetcode.com/problems/maximum-subarray/ <br/>
+- [x] 1 | https://leetcode.com/problems/two-sum/ <br/>
+- [x] 88 | https://leetcode.com/problems/merge-sorted-array/ <br/>
+- [x] 350 | https://leetcode.com/problems/intersection-of-two-arrays-ii/ <br/>
+- [x] 121 | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ <br/>
+- [x] 566 | https://leetcode.com/problems/reshape-the-matrix/ <br/>
+- [x] 118 | https://leetcode.com/problems/pascals-triangle/ <br/>
+- [x] 74 | https://leetcode.com/problems/search-a-2d-matrix/ <br/>
+- [x] 36 | https://leetcode.com/problems/valid-sudoku/ <br/>
+- [x] 387 | https://leetcode.com/problems/first-unique-character-in-a-string/submissions/ </br>
+- [x] 383 | https://leetcode.com/problems/ransom-note/ </br>
+- [x] 242 | https://leetcode.com/problems/valid-anagram/ </br>
+- [x] 141 | https://leetcode.com/problems/linked-list-cycle/ </br>
+- [x] 21 | https://leetcode.com/problems/merge-two-sorted-lists/ </br>
+- [x] 203 | https://leetcode.com/problems/remove-linked-list-elements/ </br>
+- [x] 206 | https://leetcode.com/problems/reverse-linked-list/ </br>
+- [x] 83 | https://leetcode.com/problems/remove-duplicates-from-sorted-list/ </br>
+- [x] 20 | https://leetcode.com/problems/valid-parentheses/ </br>
+- [x] 232 | https://leetcode.com/problems/implement-queue-using-stacks/ </br>
+- [x] 144 | https://leetcode.com/problems/binary-tree-preorder-traversal/ </br>
+- [x] 94 | https://leetcode.com/problems/binary-tree-inorder-traversal/ </br>
+- [x] 145 | https://leetcode.com/problems/binary-tree-postorder-traversal/ </br>
+- [x] 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ </br>
