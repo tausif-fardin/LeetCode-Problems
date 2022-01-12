@@ -26,3 +26,5 @@
 - [x] 94 | https://leetcode.com/problems/binary-tree-inorder-traversal/ </br>
 - [x] 145 | https://leetcode.com/problems/binary-tree-postorder-traversal/ </br>
 - [x] 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ </br>
+- [x] 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ </br>
+- [x] 104 | https://leetcode.com/problems/maximum-depth-of-binary-tree/ </br>
