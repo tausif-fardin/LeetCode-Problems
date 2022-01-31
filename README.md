@@ -32,3 +32,5 @@
 ## Data Structure II
 
 - [x] 136 | https://leetcode.com/problems/single-number/ <br/>
+- [x] 169 | https://leetcode.com/problems/majority-element/ <br/>
+- [x] 15 | https://leetcode.com/problems/3sum/ <br/>
