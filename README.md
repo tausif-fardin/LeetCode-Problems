@@ -34,3 +34,11 @@
 - [x] 136 | https://leetcode.com/problems/single-number/ <br/>
 - [x] 169 | https://leetcode.com/problems/majority-element/ <br/>
 - [x] 15 | https://leetcode.com/problems/3sum/ <br/>
+
+
+## LeetCode 75
+#Level 1:
+- [x] 1480 | https://leetcode.com/problems/running-sum-of-1d-array/ <br/>
+- [x] 724 | https://leetcode.com/problems/find-pivot-index/ <br/>
+
+
